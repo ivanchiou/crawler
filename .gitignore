@@ -1,0 +1,13 @@
+# Ignore specific folders
+__pycache__
+
+# Operating system specific files
+.DS_Store
+
+# Files related to applying patches
+*.rej
+*.orig
+*.patch
+*.diff
+*.csv
+.svn
